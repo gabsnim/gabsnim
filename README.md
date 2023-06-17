@@ -1,6 +1,9 @@
 
+<h2 align="center">Olá! Meu nome é Gabriel Xavier</h2>
 
-### Olá! Eu sou o Gabriel Xavier 🦝
+- 🧑‍🎓 Estudante de Ciência da Computação - PUC MINAS.
+- 💡 Interesse na área de backend. 
+- 📫 Contate-me pelo e-mail: gabrielxb110@gmail.com
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-xavier-576648267/)
@@ -19,8 +22,3 @@
 </div>
 
 
-### Sobre mim
-
-<h3>🧑‍🎓 Estudante de Ciência da Computação - PUC MINAS.</h3>
-<h3>💡 Tenho interesse na área de backend </h3>
-<h3> 📞 gabrielxb110@gmail.com </h3>
