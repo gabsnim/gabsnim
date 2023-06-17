@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="gabsnim.org" target="_blank">
-    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" height="35" alt="web site"  />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="web site"  />
   </a>
   <a href="gabrielxb110@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
