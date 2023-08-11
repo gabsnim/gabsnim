@@ -2,8 +2,7 @@
 <h2 align="center">Olá! Meu nome é Gabriel Xavier</h2>
 
 - 🧑‍🎓 Estudante de Ciência da Computação - PUC MINAS.
-- 💡 Interesse na área de backend. 
-- 📫 Contate-me pelo e-mail: gabrielxb110@gmail.com
+
 
 ###
 
