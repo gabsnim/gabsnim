@@ -12,10 +12,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  height="30"width="42" alt="Java logo" />
 </div>
 
-<div align="center">
-  https://github-readme-stats.vercel.app/api?username={gabsnim}&theme=blue-green
-</div>
-
 ##
 
   </a>
