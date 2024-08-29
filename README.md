@@ -1,10 +1,9 @@
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold; margin: 10px 0;">👾 Gabriel Xavier 👾</h1>
-  <p style="font-size: 1.2em; color: #333; margin: 5px 0;">20y🦝</p>
-  <p style="font-size: 1.5em; color: #5865F2; margin: 5px 0;">Computer Science - PUC MINAS</p>
+  <h1 style="font-size: 3em; font-weight: bold; margin: 10px 0;">👾 Gabriel Xavier - 20y 👾</h1>
+  <p style="font-size: 1.5em; color: #5865F2; margin: 7px 0;">Computer Science - PUC MINAS</p>
 </div>
 
-
+  <br>
  <hr/>
  
 <h2 align="center">🔮 Skills 🔮</h2>
@@ -17,7 +16,7 @@
 <br/>
 <hr/>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">🧨 Stats 🧨</h2>
 <br>
 <hr/>
 <div align=center>
