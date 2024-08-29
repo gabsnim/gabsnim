@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                   height="30" width="42" alt="C logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"   height="30" width="42" alt="Cplusplus logo"  />
- <img src="https://github.com/devicons/devicon/blob/master/icons/Java/java-original.svg"   height="30" width="42" alt="Java logo"  />
+ https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg
 </div>
 
 ##
