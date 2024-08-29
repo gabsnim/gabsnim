@@ -3,7 +3,7 @@
   <p style="font-size: 1.8em; color: #5865F2; margin: 5px 0;">Computer Science - PUC MINAS</p>
 </div>
 
- <hr/>
+
  
 <h2 align="center">🔮 Skills 🔮</h2>
 <br/>
