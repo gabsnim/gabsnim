@@ -13,6 +13,9 @@
   <img
 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"
 width="42" alt="Java logo" />
+
+  <img 
+src"https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="30 width="42" alt="Linux logo" />
 </div>
 
 ##
