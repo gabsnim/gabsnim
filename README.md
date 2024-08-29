@@ -1,13 +1,13 @@
 <div align="center">
   <h1 style="font-size: 3em; font-weight: bold; margin: 10px 0;">👾 Gabriel Xavier - 20y 👾</h1>
-  <p style="font-size: 1.5em; color: #5865F2; margin: 7px 0;">Computer Science - PUC MINAS</p>
+  <p style="font-size: 1.8em; color: #5865F2; margin: 5px 0;">Computer Science - PUC MINAS</p>
 </div>
 
   <br>
  <hr/>
  
 <h2 align="center">🔮 Skills 🔮</h2>
-
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,c,vscode,github,git,linux,ubuntu,arch" />
 <br>
@@ -17,7 +17,7 @@
 <hr/>
 
 <h2 align="center">🧨 Stats 🧨</h2>
-
+<br>
 <hr/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gabsnim&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
